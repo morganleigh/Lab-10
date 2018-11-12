@@ -1,7 +1,7 @@
 # Lab 10
 
 from PIL import Image
-img = Imgage.open( "handprint.png" )
+img = Image.open( "handprint.png" )
 
 img = img.convert( "L" )
 
