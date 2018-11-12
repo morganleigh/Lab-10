@@ -18,3 +18,5 @@ for row in range(rows):
     pix [col, row] = 255 - pix[ col, row ]
 
 print( "Hi" )
+
+print( "don't even know what I'm doing" )
