@@ -16,3 +16,5 @@ print( "pixel at row", 3, "and col", 4, "is", pix[4, 3] )
 for row in range(rows):
   for col in range(cols):
     pix [col, row] = 255 - pix[ col, row ]
+
+print( "Hi" )
